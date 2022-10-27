@@ -1,0 +1,135 @@
+.first-page-footer{
+    background-color: #e6eaf0;
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 100%;
+}
+.footer-logo{
+    display:block;
+    height: 74.59px;
+    text-align: left;
+    width: 193px;
+    padding-top: 20px;
+    
+}
+.footer-info-wrapper{
+    padding-top: 170px;
+}
+.footer-info-wrapper h1{
+font-weight: 600;
+font-size: 24px;
+width: 420px;
+height: 72px;
+font-family: "poppins", sans-serif;
+}
+.footer-info-wrapper p{
+    padding-top: 16px;
+    width: 420px;
+    height: 161.95px;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    color: #b0b0b0;
+    font-weight: 400;
+}
+
+a.social-link {
+    width: 2.5em;
+    text-decoration: none;
+    height: 2.5em;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    color: white;
+    border-radius: 50%;
+    transition: all .2s ease-in-out;
+    background-color: #ff8e00;
+    
+}
+.social-link svg {
+    height: 1em;
+    width: 1em;
+}
+
+
+.h1{
+    font: 16px, sans-serif;
+    color: #000027;
+   display: flex;
+   
+}
+
+.btn1{
+    align-self: center;
+    align-items: center;
+    font-size: 20px Poppins,sans-serif;
+    padding: 25px 50px;
+    border-radius: 6px;
+    background-color: #FC5E1F;
+    font-weight: bold;
+    color: #FFFFFF;
+    margin-top: 100px;
+    
+}
+.cem-foot1{
+    font-style: sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    /*color: black;*/
+    color:#868686;
+    display:flex;
+    font-weight: 400;
+    
+    
+}
+.p{
+    font-size: 5px;
+}
+.foot{
+    display:flex;
+    
+    
+}
+
+.hd {
+    font-style: normal;
+    font-size: 20px;
+    line-height: 1.4;
+    text-transform: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.col2{
+    position:relative;
+}
+
+.btn2{
+position: absolute;
+border: none;
+bottom:0;
+right:0;
+flex: end-side;
+align-self: bottom;
+background-color: #FF8E00;
+font-size: 16px, sans-serif;
+font-weight: bold;
+    color: #FFFFFF;
+    display: table-cell;
+    width: auto;
+    height: 45px;
+    padding: 0 30px;
+    border-radius: 25px;
+}
+.h1{
+    width: 210px;
+    /* height: 56px; */
+    font-size: 20px;
+    margin: 0px 0px 10px;
+    font-style: normal;
+    line-height: 1.4;
+    text-transform: none;
+    color: #000;
+    font-weight: bold;
+}

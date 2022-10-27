@@ -1,0 +1,74 @@
+.ground-first-image-section{
+    width: 1080px;
+    height: 593px;
+justify-content: center;
+display: flex;
+}
+.ground-text-section{
+    width: 795px;
+    background-color: white;
+}
+.ground-first-heading{
+    font-size: 40px;
+    color: #000027;
+    font-weight: 600;
+    line-height: 1.35;
+}
+.ground-second-image{
+    width: 730px;
+    height: 384px;
+}
+.ground-heading-last{
+    font-size: 24px;
+    font-weight: 600;
+    color: #000027;
+    font-family: sans-serif;
+}
+.ground-text-section-para{
+font-size: 18px;
+font-family: sans-serif;
+font-weight: 400;
+font-style: normal;
+line-height: 1.8;
+}
+.ground-button-first{
+    background-color: #fc5f1e;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 400;
+ text-decoration: none;
+ border-style: none;
+ width: 454px;
+ height: 49px;
+}
+.ground-button-second{
+    text-decoration: none;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+    color: #868686;
+    background-color: #FFFFFF;
+    
+}
+.ground-button-third{
+    text-decoration: none;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+    color: #868686;
+    background-color: #FFFFFF;
+}
+.pitch-case-button{
+    margin-top: 30px;
+    border: none;
+    
+}
+.ground-oscar-text{
+/* margin-top: 70px; */
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 22px;
+    margin-left: 50px;
+    color: #000027;
+
+}

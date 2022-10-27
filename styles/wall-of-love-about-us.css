@@ -1,0 +1,146 @@
+.wall-of-love-header {
+    width: 100%;
+    height: 200px;
+    background-color: #e6eaf0;
+    margin-top: 20px;
+    
+    
+}
+
+.wall-of-love-header h1{
+    text-align:center;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 70px;
+    line-height: 1.8;
+        /* font-family: var(--global-body-font-family); */
+    color: #000027;
+    vertical-align: center;
+    padding-top: 30px;
+    }
+    
+    .wall-of-love-image{
+    
+            height: 600px;
+            max-width: 100%;
+            border: none;
+            border-radius: 0;
+            -webkit-box-shadow: none;
+            box-shadow: none;
+            justify-self: center;
+            padding-top: 100px;
+            
+        }
+    .wall-of-love-heading-second{
+        /* width: 1038px; */
+        height: 45px;
+        font-size: 45px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;  
+        color: #000027;   
+        text-align: center;
+        padding-top: 15px;
+        margin-bottom: 20px;
+    }
+.wall-of-love-paragraph{
+    font-size: 18px;
+    color: #2a2a2a;
+    font-family: "Lato", sans-serif;
+    /* padding-left: 200px; */
+        font-style: normal;
+        font-weight: 400;
+        display: flex;
+        justify-content: center;
+        line-height: 1.8;
+        
+    
+}
+.wall-of-love-paragraph--extra{
+    font-size: 18px;
+    color: #2a2a2a;
+    font-family: "Lato", sans-serif;
+    
+        font-style: normal;
+        font-weight: 400;
+        display: flex;
+        justify-content: center;
+        line-height: 1.8;
+}
+.wall-of-love-paragraph-underline{
+    font-size: 18px;
+    color: #2a2a2a;
+    font-family: "Lato", sans-serif;
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+}
+.wall-of-love-video-aboutus{
+    height: 359px;
+    width: 638px;
+    margin-top: 70px;
+    margin-bottom: 80px;
+    
+}
+/* .wall-of-love-card-group{
+    
+    margin-top: ;
+}   */
+.wall-of-love-card{
+    height: 332.66px;
+    width: 332.66px;
+}
+.wall-of-love-card-first-part h5{
+    font-size: 18px;
+    justify-content: center;
+    display: flex;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 20px;
+    font-weight: 600;
+    padding-top: 20px;
+}
+.wall-of-love-card-second-part h5{
+    font-size: 18px;
+    justify-content: center;
+    display: flex;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 20px;
+    font-weight: 600;
+    padding-top: 20px;
+}
+.wall-of-love-card-first-part p{
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 20px;
+    font-size: 19px;
+    justify-content: center;
+    display: flex;
+    font-weight: 400;
+}
+.wall-of-love-card-second-part p{
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 20px;
+    font-size: 19px;
+    justify-content: center;
+    display: flex;
+    font-weight: 400;
+}
+.wall-of-love-card-title-udit{
+    height: 332.66px;
+    width: 332.66px;
+}
+/* .wall-of-love-card-second-part{
+    height: 452.38px;
+    width: 332.66px;
+} */
+.wall-of-love-card-image{
+    height: 332.66px;
+    width: 332.66px;
+}
+
+/* .wall-of-love-heading-second h2{
+    color: #000027;
+        font-size: 100px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+} */

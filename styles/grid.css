@@ -1,0 +1,97 @@
+.first-section{
+    padding: 30px 0;
+    position: relative;
+}
+.first-section h1 {
+    font-size: 26px;
+}
+.first-section h4{
+
+    color: var(--text-color-level2,rgba(26,26,26,0.6));
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+
+.image2{
+    height: 550px;
+    width: 550px;
+    /*align-self:right;*/
+    display: inline-block;
+    
+}
+.clock-icon{
+    width: 18px;
+    height: 18px;
+    color: #E6EAF0;
+    margin-left: 100px;
+    margin-top: -5px;
+    margin-right: 4px;
+}
+.clock-icon p{
+    padding-left: 10px;
+}
+.left-column-overflow{
+    max-height: 550px;
+    overflow-y: auto;
+}
+.image3 {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.ic{
+    display:flex;
+}
+.image1{
+    height: 100px;
+    width:90px;
+    margin-top: 10px;
+}
+/*.col{
+    margin-top: 0px;
+}*/
+.h3{
+    width: 1120px;
+    height: 90px;
+    font-size: 45px;
+    font-family: Poppins, sans-serif;
+    margin: 0px, 0px,22.5px;
+    color: #000027;
+}
+
+.thumb-icon{
+    width:65px;
+}
+.grey-wrapper{
+    background-color: #E6EAF0;
+    padding: 25px 20px;
+}
+.demo-content h3{
+    font-weight: 600;
+    font-size: 45px;
+
+}
+.para-icon{
+    height: 72px;
+    width: 294px;
+    margin-left: 100px;
+}
+.demo-content{
+    border-bottom: 1px solid black;
+    padding-bottom: 25px;
+    margin-top: 25px;
+}
+.vid>div{
+    height: 600px !important;
+    
+}
+/* .calendly{
+margin-left: 100px;
+}
+.calender-wrapper h1{
+margin-left: 100px;
+} */
